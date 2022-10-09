@@ -12,8 +12,8 @@
  
 ##
 ### Iletişim
-Gmail : hakan34yilmaz01@gmail.com
-Internet SİTEM: ...
+Gmail : hakan34yilmaz01@gmail.com </br>
+Internet sitem: Yapılıyor..
   
 ## 
 
