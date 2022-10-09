@@ -25,5 +25,5 @@ Gmail : hakan34yilmaz01@gmail.com
 </ol>
 
 ## 
-### Welcome To My Little Works:bike:
+### Ziyaretiniz için teşekkürler..
 
