@@ -1,9 +1,29 @@
-## Hi 👋 I`m Hakan Yılmaz
-- My Discord = **Hqko#4059**
-- My Discord Bot = <a href="https://discord.com/oauth2/authorize?client_id=869536273872879626&permissions=8&scope=bot">**EGUNOM**</a>
-- My Gmail = hakan34yilmaz01@gmail.com
-- My WebSite =  <a href="https://hqko.netlify.app/hqko">Hqko</a>
+## Merhaba Ben Hakan,
+<p>2004 Ağustos doğumluyum, Istanbul'da yaşıyorum, <b>Beylikdüzü Borsa Istanbul Çok Programlı Anadolu Lisesi'nde Bilişim</b> bölümünde öğrenim gördüm, <b>Beylikdüzü Belediyesi'nde Bilişim</b> bölümünde 2021-2022 sezonunda staj yaptım ve şimdi <b>Istinye Universitesi`nde Bilgisayar Programcılığın</b>'da öğrenimime devam etmekteyim.</p>
+<p>Downhill, Astronomi, Bilim ve Tarihi severim. Yazılım alanında çok ilerilere gitmeyi hedeflemekte ve kendi şirketimi kurup dünya markası olmayı amaçlamaktayım. Küçük bir aile'nin büyük hedefleri olan çocuğuyum.</p>
 
-## Contact us if you want to own a website.:office:
+### Yazılım Bilgim
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>C#</li>
+</ul>
+ 
+##
+### Iletişim
+Gmail : hakan34yilmaz01@gmail.com
+  
+## 
+
+#### Static Internet Siteleri yapmaktayım. Sizlerde static bir internet sitesine sahip olmak istiyorsanız paketlerimi inceleyip benimle iletişime geçebilirsiniz.
+<ol>
+  <li><b>Temel Paket</b> 449TL </br> Örnek Internet Sitesi :point_right: <a href="#">Temel Paket</a></li>
+  <li><b>Orta Paket 649TL</b> </br> Örnek Internet Sitesi :point_right: <a href="#">Orta Paket</a></li>
+  <li><b>Üst Paket 749TL</b> </br> Örnek Internet Sitesi :point_right: <a href="#">Üst Paket</a></li>
+  <li><b>Kişiye özel tasarım</b> internet sitesi 1049TL'den başlayan fiyatlar ile </br> Örnek Internet Sitesi :point_right: <a href="#">Kişiye özel tasarım Paket</a></li>
+</ol>
+
+## 
 ### Welcome To My Little Works:bike:
 
