@@ -22,7 +22,7 @@ Internet sitem: Yapılıyor..
   <li><b>Temel Paket</b> 429TL </br> Örnek Internet Sitesi :point_right: <a href="#">Temel Paket</a></li>
   <li><b>Orta Paket</b> 629TL </br> Örnek Internet Sitesi :point_right: <a href="#">Orta Paket</a></li>
   <li><b>Üst Paket</b> 729TL </br> Örnek Internet Sitesi :point_right: <a href="#">Üst Paket</a></li>
-  <li><b>Kişiye özel tasarım</b> internet sitesi 1049TL'den başlayan fiyatlar ile </br> Örnek Internet Sitesi :point_right: <a href="#">Kişiye özel tasarım Paket</a></li>
+  <li><b>Kişiye özel tasarım</b> internet sitesi 1029TL'den başlayan fiyatlar ile </br> Örnek Internet Sitesi :point_right: <a href="#">Kişiye özel tasarım Paket</a></li>
 </ol>
 
 ## 
