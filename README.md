@@ -20,8 +20,8 @@ Internet sitem: Yapılıyor..
 #### Static Internet Siteleri yapmaktayım. Sizlerde static bir internet sitesine sahip olmak istiyorsanız paketlerimi inceleyip benimle iletişime geçebilirsiniz.
 <ol>
   <li><b>Temel Paket</b> 449TL </br> Örnek Internet Sitesi :point_right: <a href="#">Temel Paket</a></li>
-  <li><b>Orta Paket 649TL</b> </br> Örnek Internet Sitesi :point_right: <a href="#">Orta Paket</a></li>
-  <li><b>Üst Paket 749TL</b> </br> Örnek Internet Sitesi :point_right: <a href="#">Üst Paket</a></li>
+  <li><b>Orta Paket</b> 649TL </br> Örnek Internet Sitesi :point_right: <a href="#">Orta Paket</a></li>
+  <li><b>Üst Paket</b> 749TL </br> Örnek Internet Sitesi :point_right: <a href="#">Üst Paket</a></li>
   <li><b>Kişiye özel tasarım</b> internet sitesi 1049TL'den başlayan fiyatlar ile </br> Örnek Internet Sitesi :point_right: <a href="#">Kişiye özel tasarım Paket</a></li>
 </ol>
 
