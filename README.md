@@ -13,17 +13,9 @@
 ##
 ### Iletişim
 Gmail : hakan34yilmaz01@gmail.com </br>
-Internet sitem: Yapılıyor..
+Internet sitem: ..
   
 ## 
-
-#### Static Internet Siteleri yapmaktayım. Sizlerde static bir internet sitesine sahip olmak istiyorsanız paketlerimi inceleyip benimle iletişime geçebilirsiniz.
-<ol>
-  <li><b>Temel Paket</b> 429TL </br> Örnek Internet Sitesi :point_right: <a href="#">Temel Paket</a></li>
-  <li><b>Orta Paket</b> 629TL </br> Örnek Internet Sitesi :point_right: <a href="#">Orta Paket</a></li>
-  <li><b>Üst Paket</b> 729TL </br> Örnek Internet Sitesi :point_right: <a href="#">Üst Paket</a></li>
-  <li><b>Kişiye özel tasarım</b> internet sitesi 1029TL'den başlayan fiyatlar ile </br> Örnek Internet Sitesi :point_right: <a href="#">Kişiye özel tasarım Paket</a></li>
-</ol>
 
 ## 
 ### Ziyaretiniz için teşekkürler..
