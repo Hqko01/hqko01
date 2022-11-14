@@ -16,7 +16,7 @@ Gmail : hakan34yilmaz01@gmail.com </br>
 Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
   
 ## 
-
+ ![](https://komarev.com/ghpvc/?username=hqko01)
 ## 
 ### Ziyaretiniz için teşekkürler..
 
