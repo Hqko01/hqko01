@@ -4,10 +4,9 @@
 
 ### Yazılım Bilgim
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JAVASCRIPT</li>
+  <li>Frontend</li>
   <li>C#</li>
+  <li>Python</li>
 </ul>
  
 ##
