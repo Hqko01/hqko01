@@ -16,7 +16,7 @@ Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
   
 ## 
 <b>Bir websitesine sahip olmak istiyorsanız benimle iletişime geçebilirsiniz!</b> <br> <br>
- ![](https://komarev.com/ghpvc/?username=hqko01)
+![](https://komarev.com/ghpvc/?username=hqko01&style=for-the-badge&color=dc143c)
 ## 
 ### Ziyaretiniz için teşekkürler..
 
