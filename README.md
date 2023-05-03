@@ -6,8 +6,6 @@
 <ul>
   <li>Frontend</li>
   <li>Python</li>
-  <li>C</li>
-  <li>C#</li>
 </ul>
  
 ##
