@@ -23,7 +23,8 @@ Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
 <a href="https://uyducusuat.com/"><img src="https://i.pinimg.com/originals/9d/73/af/9d73af36e486def0f4c81aa372b8655c.gif" style="width: 60px; height: 40px;"></a>
 
 <a href="https://hkmietmobel.netlify.app/"><img src="https://hkmietmobel.netlify.app/Pictures/HKLogoNB.png" style="width: 60px; height: 40px;"></a>
-
+<script id="_wau32f">var _wau = _wau || []; _wau.push(["tab", "5c330mutke", "32f", "bottom-left"]);</script>
+<script async src="//waust.at/t.js"></script>
 #
 ### Ziyaretiniz için teşekkürler..
 
