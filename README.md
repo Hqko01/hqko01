@@ -15,6 +15,7 @@ Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
   
 ## 
 ![](https://komarev.com/ghpvc/?username=hqko01&style=for-the-badge&color=d10505)
+[![kuohuanhuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hqko01&show_icons=true&theme=vue-dark)](https://github.com/hqko01)
 ## 
 
 ### Referanslarım
