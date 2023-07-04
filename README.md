@@ -14,7 +14,7 @@ Gmail : hqkko0@gmail.com </br>
 Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
   
 ## 
-![](https://komarev.com/ghpvc/?username=hqko01&style=for-the-badge&color=dc143c)
+![](https://komarev.com/ghpvc/?username=hqko01&style=for-the-badge&color=d3d3d3)
 ## 
 
 ### Referanslarım
