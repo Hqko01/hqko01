@@ -18,7 +18,7 @@ Internet sitem: <a href="https://hqko.netlify.app/hqko">Hqko</a>
 ## 
 
 ### Referanslarım
-<a href="http://safirfuar.com/"><img src="https://safirfuar.netlify.app/PIC/SafirFuarLogo.png" style="width: 60px; height: 40px;"></a>
+<a href="http://safirfuar.com/"><img src="https://safirfuar.netlify.app/PIC/SafirFuarLogo.png" style="width: 60px; height: 40px; background-color:red;"></a>
 
 <a href="https://uyducusuat.com/"><img src="https://i.pinimg.com/originals/9d/73/af/9d73af36e486def0f4c81aa372b8655c.gif" style="width: 60px; height: 40px;"></a>
 
