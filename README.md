@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Kişi Görüntüledi╰(*°▽°*)╯</h2>
+<h2 align="center">Kez Görüntülendi╰(*°▽°*)╯</h2>
 
 ###
 
