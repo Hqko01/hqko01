@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<h3 align="left">Hakkımda daha fazlasına internet sitemden ulaşabilir. Referanslarıma göz atabilirsiniz.<br><br>liriandev.com</h3>
+<h3 align="center">Hakkımda daha fazlasına internet sitemden ulaşabilir. Referanslarıma göz atabilirsiniz.<br><br>liriandev.com</h3>
 
 ###
 
